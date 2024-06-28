@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently student at **Infinite Learning Indonesia**
 
-- 🌱 I’m currently learning **Web Development & UI/UX Development**
+- 🌱 I’m currently learning **Web Development & UI/UX Design.**
 
 - 👨‍💻 All of my projects are available at [https://rvouzz.github.io/](https://rvouzz.github.io/)
 
